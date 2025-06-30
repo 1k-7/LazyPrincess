@@ -35,7 +35,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('𝙼𝙾𝚅𝙸𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻', url='https://t.me/norFederation')
             ],[
-            InlineKeyboardButton('💸 E𝐚𝐫𝐧 M𝐨𝐧𝐞𝐲 💸', callback_data="shortlink_info")
+            InlineKeyboardButton('𝚁𝙴𝙵𝙴𝚁𝙰𝙻𝚂', callback_data="shortlink_info")
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -117,7 +117,7 @@ async def start(client, message):
             InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
             ],
         [
-            InlineKeyboardButton('𝙼𝙾𝚅𝙸𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻', url='https://t.me/real_MoviesAdda3')
+            InlineKeyboardButton('𝙼𝙾𝚅𝙸𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻', url='https://t.me/norFederation')
         ]
         ]
         reply_markup = InlineKeyboardMarkup(buttons)
